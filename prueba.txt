@@ -1,2 +1,4 @@
 este repositorio es una prueba
 esta linea se agrega para enviar a remoto por ssh
+primer commit de mari
+
